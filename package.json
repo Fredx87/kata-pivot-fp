@@ -1,0 +1,25 @@
+{
+  "name": "kata-pivot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash.groupby": "^4.6.6",
+    "@types/node": "^11.11.4",
+    "fp-ts": "^1.15.0",
+    "lodash.groupby": "^4.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.1",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/jest": "^24.0.11",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0"
+  }
+}
